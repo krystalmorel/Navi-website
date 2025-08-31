@@ -1,0 +1,20 @@
+nav{
+    width: 100%;
+    padding: 20px 6%;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    font-size: 14px;
+    color: white
+};
+
+.navbar-left img{
+    width: 90px;
+}
+
+.navbar-right ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    color:  #D4B482;
+}
