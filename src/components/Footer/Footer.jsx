@@ -10,15 +10,8 @@ const Footer = () => {
         <div className="footer-left">
           <div className="footer-logo">
             <img src={logo} alt="LENAV Logo" />
-            <div>
-              <h2>LENAV</h2>
-              <p>Estudio Legal</p>
-            </div>
           </div>
-          <p className="footer-name">
-            Leidy Margaret de la Cruz <br />
-            <span>Consultora Legal | CEO</span>
-          </p>
+        
         </div>
 
 

@@ -6,7 +6,12 @@ const App = () => {
   return (
     <div>
       <Navbar />
-      
+      helloworld
+
+
+
+
+      helloworld
       <Footer />
     </div>
   )
